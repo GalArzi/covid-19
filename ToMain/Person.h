@@ -4,8 +4,9 @@
 
 using namespace std;
 
-class Person:
+class Person
 {
+protected:
 	string name;
 	long id;
 	int age;

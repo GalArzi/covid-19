@@ -1,14 +1,14 @@
 #pragma once
 #include "Person.h"
-class Student :
+class Student:
     public Person
 {
-private:
-    int average;
+protected:
+    float average;
     string institute;
 public:
     Student();
-    Student(string, long, int, int, string);
+    Student(string, long, int, float, string);
     ~Student() {}
 };
 

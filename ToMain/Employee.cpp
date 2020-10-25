@@ -1,7 +1,7 @@
 #include "Employee.h"
 
 Employee::Employee() : Person() {
-	salary = 0;
+	float salary = 0;
 }
 
 Employee::Employee(string name, long id, int age, float salary) : Person(name, id, age) {

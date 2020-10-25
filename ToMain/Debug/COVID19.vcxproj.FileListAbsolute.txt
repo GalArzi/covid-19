@@ -1,0 +1,2 @@
+C:\SE-Projects\Project\ToMain\Debug\COVID19.exe
+C:\SE-Projects\Project\ToMain\Debug\COVID19.pdb

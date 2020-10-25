@@ -10,7 +10,7 @@ Student::Student()
 
 }
 
-Student::Student(string name, long id, int age, int average, string institute) :Person(name, id, age)
+Student::Student(string name, long id, int age, float average, string institute) :Person(name, id, age)
 {
 	this->average = average;
 	this->institute = institute;
